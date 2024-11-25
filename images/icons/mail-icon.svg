@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="57" height="36" viewBox="0 0 57 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g id="email" transform="translate(1 1)">
+    <path id="Rectangle 89" d="M0 0L55 0L55 34L0 34L0 0Z" fill="none" stroke-width="2" stroke="#000000" />
+    <path id="Path 8" d="M25.9106 26.3263L26.6177 27.0334L27.3248 26.3263L52.9971 0.65399L53 0L50.8226 0L25.9106 24.9121L27.3248 24.9121L2.42592 0.0015223L0 0.0015223L0 0.432537L25.9106 26.3263Z" fill="#000000" fill-rule="evenodd" transform="translate(1 0.998)" />
+    <path id="Path 9" d="M0 16.7071L2.42268 16.7071L17.7071 1.41421L16.2929 0L0 16.2867L0 16.7071Z" fill="#000000" fill-rule="evenodd" transform="translate(1 16.293)" />
+    <path id="Path 10" d="M17.7071 16.7071L17.7071 16.3074L1.41422 0L0 1.41421L15.3074 16.7071L17.7071 16.7071Z" fill="#000000" fill-rule="evenodd" transform="translate(36.293 16.293)" />
+  </g>
+</svg>
