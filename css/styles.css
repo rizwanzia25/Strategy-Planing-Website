@@ -83,12 +83,12 @@ header{
 header .wraper{
     padding:15px 0;
 }
-.logo{
+.logo a{
     font-size: 32px;
     font-weight: var(--font-weight-bold);
     color: var(--secondary-color);
 }
-.logo span{
+.logo a span{
     color: var(--primary-color);
 }
 nav ul{
